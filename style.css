@@ -1,0 +1,15 @@
+*{
+    font-family: monospace;
+    text-align: center;
+    font-size: 1.2rem;
+}
+form{
+    width: 80vw;
+    height: 80vh;
+    margin: auto;
+    background-color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
